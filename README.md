@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gpfaucher
+- 🌱 I am a young and upcoming software developer based in the Netherlands. 
+- 📫 Reach out to me over at gpfaucher@gmail.com
